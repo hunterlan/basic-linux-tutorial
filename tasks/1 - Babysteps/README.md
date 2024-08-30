@@ -1,5 +1,5 @@
 # Introduction
-You installed Linux! Well done and welcome to the world of Linux! I hope you're ready to make your first steps in this world :) However, I recommend you not to cheat (read as "use GUI"), but be obedient and do all next tasks with usage of terminal. Otherwise, why did you start this journey? :)
+You installed Linux! Well done and welcome to the world of Linux! I hope you're ready to make your first steps in this world :) However, I recommend you not to cheat (read as "use GUI" or "use ChatGPT"), but be obedient and do all next tasks with usage of terminal. Otherwise, why did you start this journey? :)
 
 [Glossary](Glossary.md) will help with unknown words.
 # Task
